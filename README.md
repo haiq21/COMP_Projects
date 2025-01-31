@@ -1,1 +1,3 @@
-# Games
+# SOKOBAN
+
+A game of Sokoban
